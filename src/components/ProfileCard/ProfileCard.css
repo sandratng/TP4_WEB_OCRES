@@ -1,0 +1,41 @@
+.profileCardContainer {
+  border: 1px solid black;
+  padding: 2rem 1.5rem;
+  display: grid;
+  grid-template-areas:
+    "profile-picture profile-picture"
+    "firstName lastName"
+    "birthDate ."
+    ". change-button";
+  column-gap: 3rem;
+  row-gap: 1rem;
+  margin: 1rem;
+  margin-top: 2rem;
+  border-radius: 5px;
+}
+
+#profile-picture {
+  grid-area: profile-picture;
+  height: 15rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#firstName {
+  grid-area: firstName;
+  margin-top: 1em;
+}
+
+#lastName {
+  grid-area: lastName;
+  margin-top: 1em;
+}
+
+#birthDate {
+  grid-area: birthDate;
+}
+
+#change-button {
+  grid-area: change-button;
+}

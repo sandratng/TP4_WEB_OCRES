@@ -1,0 +1,34 @@
+{
+  "0": {
+    "posts": [
+      {
+        "id": 0,
+        "content": "Des idées pour ma prochaine bêtise ? 😈",
+        "likesCount": 3
+      }
+    ]
+  },
+  "1": {
+    "posts": [
+      {
+        "id": 0,
+        "content": "La terre est ronde, je vous dis ! 😡",
+        "likesCount": 0
+      }
+    ]
+  },
+  "2": {
+    "posts": [
+      {
+        "id": 0,
+        "content": "agagag gagaga !! 👶👶",
+        "likesCount": 200
+      },
+      {
+        "id": 1,
+        "content": "hahahahahahaha !! 👶👶",
+        "likesCount": 999
+      }
+    ]
+  }
+}

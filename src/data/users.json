@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "firstName": "Bart",
+    "lastName": "Simpson",
+    "birthDate": "11/10/1998",
+    "profilePicture": "assets/bart.png"
+  },
+  {
+    "id": 1,
+    "firstName": "Lisa",
+    "lastName": "Simpson",
+    "birthDate": "23/08/1999",
+    "profilePicture": "assets/lisa.png"
+  },
+  {
+    "id": 2,
+    "firstName": "Maggie",
+    "lastName": "Simpson",
+    "birthDate": "01/01/2002",
+    "profilePicture": "assets/maggie.png"
+  }
+]
